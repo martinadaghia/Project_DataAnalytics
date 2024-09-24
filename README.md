@@ -8,3 +8,7 @@ Laurea Magistrale in Informatica
 
 ## Voto
 28/30
+
+## Partecipanti
+- Martina Daghia
+- Martina Zauli
